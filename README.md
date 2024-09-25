@@ -16,9 +16,6 @@ Para desenvolver e rodar o projeto, você vai precisar de:
 	•	Versão 1.0: Implementação inicial.
 	•	Versão 1.1: Refatoração do código. Data: 09/09/2024.
 
-✒️ Autores
-
-	•	Nome do desenvolvedor: Trabalho inicial - Desenvolvimento do projeto “Produto”.
 
 Descrição do Projeto
 
