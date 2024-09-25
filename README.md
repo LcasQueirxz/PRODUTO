@@ -14,7 +14,6 @@ Para desenvolver e rodar o projeto, você vai precisar de:
 📌 Versão
 
 	•	Versão 1.0: Implementação inicial.
-	•	Versão 1.1: Refatoração do código. Data: 09/09/2024.
 
 
 Descrição do Projeto
